@@ -1,7 +1,7 @@
 ---
 name: BUG反馈
 about: 提交错误报告帮助我们更好改进
-title: ''
+title: "[BUG]"
 labels: bug
 assignees: ''
 
