@@ -7,8 +7,9 @@
 
 ## 特别感谢
  - [metowolf vCards 中国黄页](https://github.com/metowolf/vCards)
+ - [114 百事通](http://www.114best.com/)
 
-小菌在原作者的基础上，结合自己日常体验，已经完善了诸多公共服务号的来信号码，目前列表已达192个（截至2022/04/20）
+小菌在原作者的基础上，结合自己日常体验，已经完善了诸多公共服务号的来信号码。
 
 ## 使用指南
 
@@ -29,3 +30,15 @@
 待更新
 
 ----
+
+## 请求收录
+
+ 1. 打开 https://github.com/xiaojun-space/Mobile-vCards/issues/new/choose 页面，选择「请求收录」
+ 2. 完整填写相关信息
+ 3. 提交 `issue`，等待处理
+
+## 问题反馈
+
+ 1. 打开 https://github.com/xiaojun-space/Mobile-vCards/issues/new/choose 页面，选择「BUG反馈」
+ 2. 完整填写相关信息
+ 3. 提交 `issue`，等待处理
