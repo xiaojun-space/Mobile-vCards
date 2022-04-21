@@ -1,38 +1,26 @@
 ---
 name: BUG反馈
-about: Create a report to help us improve
+about: 提交错误报告帮助我们更好改进
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**描述一下你遇到的bug**
+请用简短的一两句话描述一下你遇到的BUG
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**如何重现**
+简单描述一下重选步骤
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**期望的解决方案**
+简单描述一下你期望的解决方案
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**截图/录屏**
+如果可以的话，请添加屏幕截图以帮助解释你的问题
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**你使用的设备系统**
+Mac? iOS? OneUI? MIUI? HarmonyOS? ColorOS? others? 
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**补充信息**
+还有什么要补充的吗？
